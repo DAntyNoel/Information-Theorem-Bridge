@@ -199,6 +199,7 @@ def r12(pts:list, distribute:list):
 
     return 0
 
+# bid.py
 def r13(pts:list, distribute:list):
     '''开叫 1H 后应叫'''
     pt = sum(pts)
